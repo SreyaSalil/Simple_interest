@@ -1,6 +1,6 @@
 # simpleinterest
 
-A new Flutter application.
+A flutter application to calculate simple interest. 
 
 ## Getting Started
 
